@@ -41,4 +41,51 @@ frontRightMotor((.8)*1);
 backRightMotot((.8)*1);
 backLeftMotor((.8)*1);
 
+frontLeftMotor.set(0); 
+backLeftMotor.set(0); 
+frontRightMotor.set(0); 
+backRightMotor.set(0);
+
+
 ANDRES Y NICOLE
+frontLeftMotor.set(.8)*1); 
+backLeftMotor.set((.8)*1); 
+frontRightMotor.set((.8)*1); 
+backRightMotor.set((.8)*1);
+Timer.delay (); 
+
+frontLeftMotor.set(.8)*-1); 
+backLeftMotor.set((.8)*-1); 
+frontRightMotor.set((.8)*1); 
+backRightMotor.set((.8)*1);
+Timer.delay (); 
+frontLeftMotor.set(.8)*1); 
+backLeftMotor.set((.8)*1); 
+frontRightMotor.set((.8)*1); 
+backRightMotor.set((.8)*1);
+Timer.delay (); 
+
+frontLeftMotor.set(.8)*1); 
+backLeftMotor.set((.8)*1); 
+frontRightMotor.set((.8)*-1); 
+backRightMotor.set((.8)*-1);
+Timer.delay (); 
+frontLeftMotor.set(.8)*1); 
+backLeftMotor.set((.8)*1); 
+frontRightMotor.set((.8)*1); 
+backRightMotor.set((.8)*1);
+Timer.delay (); 
+
+
+frontLeftMotor.set(.8)*1); 
+backLeftMotor.set((.8)*1); 
+frontRightMotor.set((.8)*1); 
+backRightMotor.set((.8)*1);
+Timer.delay (); 
+
+
+frontLeftMotor.set(0); 
+backLeftMotor.set(0); 
+frontRightMotor.set(0); 
+backRightMotor.set(0);
+
