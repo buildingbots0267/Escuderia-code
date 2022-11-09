@@ -1,3 +1,14 @@
+PRIMER AUTONOMO
+frontLeftMotor.set((.8)*1); 
+backLeftMotor.set((.8)*1); 
+frontRightMotor.set((.8)*1); 
+backRightMotor.set((.8)*1);
+Timer.delay (.8); 
+
+frontLeftMotor.set(0); 
+backLeftMotor.set(0); 
+frontRightMotor.set(0); 
+backRightMotor.set(0);
 
 REBE Y DAVID
 frontLeftMotor.set((.8)*1); 
